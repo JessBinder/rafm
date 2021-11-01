@@ -197,7 +197,7 @@ crystal structures:
 
 At a correlation coefficient of 0.71, this correlation isn't great, but enough
 to demonstrate a usable sensitivity.  After we fix a few problems with the
-alignments, it may go a bit higher but our feeling is probably not
+alignments, it may go a bit higher but anticipate no
 more than about 0.8.
 The support will get better, but the criterion on this metrix seems
 unlikely to change.
